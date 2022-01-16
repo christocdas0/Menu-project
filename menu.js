@@ -4,7 +4,7 @@ let menu = [
     titile: "buttermilk pancake",
     category: "breakfast",
     price: 15.99,
-    img: "item-1.jpeg",
+    img: "Images/item-1.jpeg",
     desc: "   ipsum dolor sit amet consectetur adipisicing elit. Earum nisi quae atque! Vero aliquam, odit corrupti consequatur minus reprehenderit eum",
   },
   {
@@ -12,7 +12,7 @@ let menu = [
     titile: "veg burger",
     category: "lunch",
     price: 19.99,
-    img: "item-2.jpeg",
+    img: "Images/item-2.jpeg",
     desc: "   ipsum dolor sit amet consectetur adipisicing elit. Earum nisi quae atque! Vero aliquam, odit corrupti consequatur minus reprehenderit eum",
   },
   {
@@ -20,7 +20,7 @@ let menu = [
     titile: "milk shake",
     category: "shakes",
     price: 10.99,
-    img: "item-3.jpeg",
+    img: "Images/item-3.jpeg",
     desc: "   ipsum dolor sit amet consectetur adipisicing elit. Earum nisi quae atque! Vero aliquam, odit corrupti consequatur minus reprehenderit eum",
   },
   {
@@ -28,7 +28,7 @@ let menu = [
     titile: "bread omlate",
     category: "breakfast",
     price: 8.99,
-    img: "item-4.jpeg",
+    img: "Images/item-4.jpeg",
     desc: "   ipsum dolor sit amet consectetur adipisicing elit. Earum nisi quae atque! Vero aliquam, odit corrupti consequatur minus reprehenderit eum",
   },
   {
@@ -36,7 +36,7 @@ let menu = [
     titile: "jinger crash burger",
     category: "lunch",
     price: 16.8,
-    img: "item-5.jpeg",
+    img: "Images/item-5.jpeg",
     desc: "   ipsum dolor sit amet consectetur adipisicing elit. Earum nisi quae atque! Vero aliquam, odit corrupti consequatur minus reprehenderit eum",
   },
   {
@@ -44,7 +44,7 @@ let menu = [
     titile: "choclate shake",
     category: "shakes",
     price: 9.99,
-    img: "item-6.jpeg",
+    img: "Images/item-6.jpeg",
     desc: "   ipsum dolor sit amet consectetur adipisicing elit. Earum nisi quae atque! Vero aliquam, odit corrupti consequatur minus reprehenderit eum",
   },
   {
@@ -52,7 +52,7 @@ let menu = [
     titile: "egg patsa",
     category: "lunch",
     price: 10.11,
-    img: "item-7.jpeg",
+    img: "Images/item-7.jpeg",
     desc: "   ipsum dolor sit amet consectetur adipisicing elit. Earum nisi quae atque! Vero aliquam, odit corrupti consequatur minus reprehenderit eum",
   },
   {
@@ -60,7 +60,7 @@ let menu = [
     titile: "veg burger",
     category: "breakfast",
     price: 10.0,
-    img: "item-8.jpeg",
+    img: "Images/item-8.jpeg",
     desc: "   ipsum dolor sit amet consectetur adipisicing elit. Earum nisi quae atque! Vero aliquam, odit corrupti consequatur minus reprehenderit eum",
   },
   {
@@ -68,7 +68,7 @@ let menu = [
     titile: "milk pancake",
     category: "breakfast",
     price: 17.99,
-    img: "item-1.jpeg",
+    img: "Images/item-9.jpeg",
     desc: "   ipsum dolor sit amet consectetur adipisicing elit. Earum nisi quae atque! Vero aliquam, this si one of the best food in our ares",
   },
   {
@@ -76,7 +76,7 @@ let menu = [
     titile: "veg special burger",
     category: "lunch",
     price: 13.59,
-    img: "item-2.jpeg",
+    img: "Images/item-2.jpeg",
     desc: "   ipsum dolor sit amet consectetur adipisicing elit. Earum nisi quae atque! Vero aliquam, odit corrupti consequatur minus reprehenderit eum",
   },
   {
@@ -84,7 +84,7 @@ let menu = [
     titile: "shrja shake",
     category: "shakes",
     price: 9.99,
-    img: "item-3.jpeg",
+    img: "Images/item-3.jpeg",
     desc: "   ipsum dolor sit amet consectetur adipisicing elit. Earum nisi quae atque! Vero aliquam, odit corrupti consequatur minus reprehenderit eum",
   },
   {
@@ -92,7 +92,7 @@ let menu = [
     titile: "burger omlate",
     category: "breakfast",
     price: 11.99,
-    img: "item-4.jpeg",
+    img: "Images/item-4.jpeg",
     desc: "   ipsum dolor sit amet consectetur adipisicing elit. Earum nisi quae atque! Vero aliquam, odit corrupti consequatur minus reprehenderit eum",
   },
   {
@@ -100,7 +100,7 @@ let menu = [
     titile: "rice burger",
     category: "lunch",
     price: 18.8,
-    img: "item-5.jpeg",
+    img: "Images/item-5.jpeg",
     desc: "   ipsum dolor sit amet consectetur adipisicing elit. Earum nisi quae atque! Vero aliquam, odit corrupti consequatur minus reprehenderit eum",
   },
   {
@@ -108,7 +108,7 @@ let menu = [
     titile: "choclate icecream shake",
     category: "shakes",
     price: 12.99,
-    img: "item-6.jpeg",
+    img: "Images/item-6.jpeg",
     desc: "   ipsum dolor sit amet consectetur adipisicing elit. Earum nisi quae atque! Vero aliquam, odit corrupti consequatur minus reprehenderit eum",
   },
   {
@@ -116,7 +116,7 @@ let menu = [
     titile: "eggwhite patsa",
     category: "lunch",
     price: 14.11,
-    img: "item-7.jpeg",
+    img: "Images/item-7.jpeg",
     desc: "   ipsum dolor sit amet consectetur adipisicing elit. Earum nisi quae atque! Vero aliquam, odit corrupti consequatur minus reprehenderit eum",
   },
   {
@@ -124,7 +124,7 @@ let menu = [
     titile: "sugarfree burger",
     category: "breakfast",
     price: 12.0,
-    img: "item-8.jpeg",
+    img: "Images/item-8.jpeg",
     desc: "   ipsum dolor sit amet consectetur adipisicing elit. Earum nisi quae atque! Vero aliquam, odit corrupti consequatur minus reprehenderit eum",
   },
 ];
