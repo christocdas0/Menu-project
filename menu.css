@@ -1,0 +1,119 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(240, 233, 224);
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.menu {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.title {
+  display: flex;
+  flex-direction: column;
+  margin: 50px 0;
+}
+.title h2 {
+  text-transform: capitalize;
+
+  font-size: 50px;
+}
+.underline {
+  width: 200px;
+  height: 5px;
+  background-color: rgb(221, 41, 238);
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  border-radius: 50%;
+}
+.btn-container {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+button {
+  background-color: transparent;
+  border: 1px solid tan;
+  border-radius: 5px;
+  margin: 0 8px;
+}
+.filter-btn {
+  padding: 10px 20px;
+  text-transform: capitalize;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s ease-in-out;
+}
+.filter-btn:hover {
+  background-color: black;
+  color: white;
+  transform: scaleX(1.2) scaleY(1.2);
+}
+.section-center {
+
+
+  margin: 0 auto;
+  max-width: 1170px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px 40px;
+  justify-items: center;
+
+  padding: 10px;
+}
+
+.menu-item {
+  display: flex;
+  margin: 0 auto;
+  background-color: rgb(250, 226, 195);
+  padding: 5px;
+  border-radius: 10px;
+  /* width: 600px; */
+}
+.photo {
+  object-fit: cover;
+  height: 150px;
+  width: 150px;
+
+  border: 1px solid black;
+  border-radius: 5px;
+}
+.item-info {
+  display: flex;
+  flex-direction: column;
+}
+.item-info header {
+  display: flex;
+  padding-left: 10px;
+}
+.item-info header h4:nth-child(1) {
+  border-bottom: 2px solid black;
+  font-size: 20px;
+  text-transform: capitalize;
+  padding: 5px;
+  /* width: auto; */
+  margin-bottom: 5px;
+}
+.price {
+  color: red;
+  padding: 5px;
+  font-size: 25px;
+  margin-left: 20px;
+}
+.item-text {
+  /* margin-top: 10px; */
+  padding: 0 20px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 20px;
+}
